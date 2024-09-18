@@ -16,6 +16,7 @@ Glyphion is an experimental game engine that renders 2D and 3D games to the term
 - **Level of Detail**: Implement LOD techniques for improved performance
 - **Culling**: Efficient rendering with culling algorithms
 - **Drawing Primitives**: Built-in support for rendering various shapes
+- **Cross-platform**: Windows and macOS supported. 
 
 ## Getting Started
 
