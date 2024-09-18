@@ -2,6 +2,10 @@
 
 Glyphion is an experimental game engine that renders 2D and 3D games to the terminal. Built with .NET, Glyphion offers a unique approach to game development, bringing the charm of ASCII graphics to modern game design. This is a hobby project.
 
+<p align="center">
+  <img src="./media/demo.gif" alt="Glyphion Engine Demo" width="600">
+</p>
+
 ## Features
 
 - **Terminal Rendering**: Create games that run directly in the console
